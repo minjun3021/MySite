@@ -1,0 +1,93 @@
+*{
+    box-sizing:border-box;
+}
+body{
+
+}
+header{
+    
+
+    background:black;
+    width:100%;
+    
+}
+h1{
+
+    text-align: center;
+    font-size:3em;
+    color:#81F7F3;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+article{
+    font-family: 'Poor Story', cursive;
+    margin-top:30px;
+    margin-left:200px;
+    margin-right:200px;
+    border:10px solid green;
+    font-size:2em;
+    
+}
+div.good{
+    border:1px solid blue;
+    margin:100px;
+    padding:50px;
+}
+
+#first{
+    height:600px;
+}
+h2{
+    text-align: center;
+}
+b{
+    padding-left:100px;
+
+}
+img#good{
+    float:left;
+    width:200px;
+    border:1px solid green;
+    padding:10px;
+    margin:10px;
+}
+#second{
+    height:1800px;
+}img#big{
+    float:left;
+    width:300px;
+    border:1px solid green;
+    padding:10px;
+    margin:10px;
+}
+#qwe{
+    font-size:22px;
+}
+
+a:hover{
+    color:#000000;
+}
+li{ 
+    color:#a7abab;
+    display:inline;
+    font-size:2em;
+    text-align: center;
+    font-family: 'Poor Story', cursive;
+    margin-right: 600px;
+
+}
+
+ul{
+    width:1570px;
+    position:fixed;
+    bottom:0;
+    background:#323232;
+    padding:10px;
+    display:inline;
+}
+a{
+    color:#a7abab;
+    text-decoration: none;
+}
+#third{
+    height:1000px
+}
